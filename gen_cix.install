@@ -1,0 +1,24 @@
+<?php
+// $Id$
+
+/*
+ * @file: To do, some docs about your install file
+ */
+
+/**
+ * Implementation of hook_install().
+ */
+
+function gen_cix_install() {
+  // un-comment this once you've implemented the schema
+  //db_install_schema('gen_cix');
+}
+
+/**
+ * Implementation of hook_uninstall().
+ */
+
+function gen_cix_uninstall() {
+  // un-comment this once you've implemented the schema
+  //drupal_uninstall_schema('gen_cix');
+}

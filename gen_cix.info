@@ -1,0 +1,5 @@
+; $Id$
+name = "Cix XML Generator for Komodo Auto-complete"
+description = ""
+;dependencies[] = 
+core = 6.x
